@@ -1,4 +1,4 @@
-# OLA1 - Data Wrangling and Descrip5ve Sta5s5cs
+# OLA1 - Data Wrangling and Descriptive Statistics
 
 ## Group
 
