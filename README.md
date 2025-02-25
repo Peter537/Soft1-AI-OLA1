@@ -6,6 +6,10 @@
 - Peter (cph-pa153)
 - Yusuf (cph-ya56)
 
+## GitHub Link
+
+https://github.com/Peter537/Soft1-AI-OLA1
+
 ## Assignment
 
 The final assignment is located in the file [assignment.ipynb](assignment.ipynb).
