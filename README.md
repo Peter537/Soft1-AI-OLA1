@@ -5,3 +5,9 @@
 - Oskar (cph-oo221)
 - Peter (cph-pa153)
 - Yusuf (cph-ya56)
+
+## Assignment
+
+The final assignment is located in the file [assignment.ipynb](assignment.ipynb).
+
+Our individual files are also present in the repository, but they were only used to merge into the final assignment, and should not be considered as part of the final submission.
