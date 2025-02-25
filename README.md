@@ -8,7 +8,7 @@
 
 ## GitHub Link
 
-https://github.com/Peter537/Soft1-AI-OLA1
+[https://github.com/Peter537/Soft1-AI-OLA1](https://github.com/Peter537/Soft1-AI-OLA1)
 
 ## Assignment
 
